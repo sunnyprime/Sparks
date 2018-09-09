@@ -60,7 +60,7 @@ scala -version
 ```
 pip3 install py4j
 ```
-### download apache sparks .tgz and paste it to home directory
+### download [apache sparks .tgz](https://spark.apache.org/downloads.html) and paste it to home directory
 
 #### 11. unzip the file
 ```
